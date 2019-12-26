@@ -1,5 +1,5 @@
 def calculate_results():
-    print('Введите количество игроков')
+    print('Введите количество игроков:')
 
     n = int(input())
     players = {}
